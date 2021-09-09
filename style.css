@@ -1,0 +1,13 @@
+body {
+    background-color: cadetblue;
+}
+.main {
+    display: flex;
+    /* flex-direction: column; */
+    align-content: center;
+    justify-content: center;
+    padding: 3rem 0 3rem 0;
+ }
+ h1 {
+    text-align: center;
+}
